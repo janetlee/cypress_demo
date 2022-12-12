@@ -6,7 +6,8 @@ Demo of Cypress testing AirBnB for a technical evaluation
 1. Clone down this repo to your local machine.
 2. Please create a file called `cypress.env.json`.
    - Add a dummy phone number to the file for testing:
-```{
+```
+{
   "phone": "1234567890"
 }
 ```
